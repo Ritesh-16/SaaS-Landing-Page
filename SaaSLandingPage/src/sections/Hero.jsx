@@ -14,12 +14,12 @@ const Hero =() => {
                        </div>
                        <h1 className='mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12'>Amazingly simple</h1>
                        <p className='max-md:mb-10 max-w-440 mb-14 body-1'>We designed Xora AI Video Editor to be an easy to use, quick to learn, and surprisingly powerful.</p>
-                       <LinkScroll to='features' offset={-100} spy smooth ><Button icon="/images/zap.svg" >Try it now</Button>
+                       <LinkScroll to='features' offset={-100} spy smooth ><Button icon="images/zap.svg" >Try it now</Button>
                        </LinkScroll>
                     </div>
 
                     <div className='absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res' >
-                        <img src="/images/hero.png" alt="hero" className='size-1230 max-lg:h-auto' />
+                        <img src="images/hero.png" alt="hero" className='size-1230 max-lg:h-auto' />
                     </div>
                 </div>
             </Element>
