@@ -1,23 +1,23 @@
 export const features = [
     {
       id: '0',
-      icon: '/images/feature-1.png',
+      icon: 'public/images/feature-1.png',
       caption: 'Easy integration',
       title: 'Work smarter not harder',
       text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
       button: {
-        icon: '/images/magictouch.svg',
+        icon: 'public/images/magictouch.svg',
         title: 'Watch the demo',
       },
     },
     {
       id: '1',
-      icon: '/images/feature-2.png',
+      icon: 'public/images/feature-2.png',
       caption: 'Secure & trustworthy',
       title: 'Sleep easy, we got your back',
       text: 'Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.',
       button: {
-        icon: '/images/docs.svg',
+        icon: 'public/images/docs.svg',
         title: 'Read the docs',
       },
     },
@@ -26,22 +26,22 @@ export const features = [
   export const details = [
     {
       id: '0',
-      icon: '/images/detail-1.png',
+      icon: 'public/images/detail-1.png',
       title: 'AI automated video editing',
     },
     {
       id: '1',
-      icon: '/images/detail-2.png',
+      icon: 'public/images/detail-2.png',
       title: 'Collaborate with your team',
     },
     {
       id: '2',
-      icon: '/images/detail-3.png',
+      icon: 'public/images/detail-3.png',
       title: 'Ultra fast cloud-engine',
     },
     {
       id: '3',
-      icon: '/images/detail-4.png',
+      icon: 'public/images/detail-4.png',
       title: '24 / 7 Customer support',
     },
   ];
@@ -122,8 +122,8 @@ export const features = [
         '5 projects',
         '24/7 support',
       ],
-      icon: '/images/circle.svg',
-      logo: '/images/plan-1.png',
+      icon: 'public/images/circle.svg',
+      logo: 'public/images/plan-1.png',
     },
     {
       id: '1',
@@ -137,8 +137,8 @@ export const features = [
         'Unlimited projects',
         'Analytics',
       ],
-      icon: '/images/triangle.svg',
-      logo: '/images/plan-2.png',
+      icon: 'public/images/triangle.svg',
+      logo: 'public/images/plan-2.png',
     },
     {
       id: '2',
